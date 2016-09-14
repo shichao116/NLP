@@ -1,0 +1,1 @@
+The book is full of examples and real-world stuff on analog circuit design.  Would be a good addition to any designer's library

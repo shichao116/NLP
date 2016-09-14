@@ -1,0 +1,1 @@
+I'm new to Cable TV and work mainly on the software side.  Two years of hearing the plant guys use decibels to describe coax runs led me to this book.  This book is a great intro to the RF side of things.  Note that while it isn't an EE level e-mag book it is not for the mathematically faint at heart

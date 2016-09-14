@@ -1,0 +1,1 @@
+The fact that the author does not explicitly define things is a bad enough reason to stay away from this book. If you only want a light treatment of point-set topology, go for Munkres, otherwise, Hatcher
